@@ -1,0 +1,14 @@
+node_modules
+.tmp
+.csv
+.sass-cache
+base_data/
+database/
+.DS_Store
+npm-debug.log
+.idea/**/*
+package-lock.json
+.*.swp
+.*.swo
+.env
+.vscode
